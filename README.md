@@ -5,10 +5,10 @@ A partir de este respositorio (instalalo en tu Local), crea un frontend en HTML,
 Te recuerdo que para acceder a la info deberás usar URLs del tipo:
 
 ```js
- https:dominioejemplo.com/api.php?type=peliculas&cantidad=10
- https:dominioejemplo.com/api.php?type=directores
- https:dominioejemplo.com/api.php?type=director&name=christopher-nolan
- https:dominioejemplo.com/api.php?type=pelicula&name=toy-story
+  https://dominioejemplo.com/api.php?type=peliculas&cantidad=10
+  https://dominioejemplo.com/api.php?type=directores
+  https://dominioejemplo.com/api.php?type=director&name=christopher-nolan
+  https://dominioejemplo.com/api.php?type=pelicula&name=toy-story
 
 ``
 
